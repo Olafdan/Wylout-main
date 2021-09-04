@@ -10,6 +10,10 @@
   grid-column-gap: 16px;
 }
 
+.mapouter {
+  width: 100%
+}
+
 .w-commerce-commerceaddtocartform {
   margin-top: 0px;
   margin-right: 0px;
